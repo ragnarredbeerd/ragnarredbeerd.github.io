@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* Name: Clint Kuhl
+    Assignment: Bootstrap B&B
+    Date: 07.29.2020
+    Filename: styles.css */
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+body {
+    background-color: gainsboro;
+}
+footer {
+    background-color: DodgerBlue;
+    margin-top: 20px;
+    text-align: center;
+    color: White;
+}
+
+.card {
+    margin-top: 10px;
+}

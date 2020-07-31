@@ -1,0 +1,59 @@
+Primary: Navy rgb(37, 42, 55)
+Secondary: yellow rgb(244, 213, 41)
+Green text: darkslategrey
+font-family: Gotham SSm, sans-serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    line-height: 0.5;
+
+brown text: 85624A Raw Umber
+     font-family: brandon-grotesque,sans-serif;
+    font-size: 3.75rem;
+    font-weight: 600;
+    line-height: 1;
+    text-align: ce
+
+<i class="fas fa-fish"></i>
+<i class="fas fa-caravan"></i>
+<i class="fas fa-anchor"></i>
+<i class="fas fa-frog"></i>
+<i class="fas fa-campground"></i>
+
+fonts:
+East Sea Dokdo (nav bar)
+Josefin sans (subheader/table text)
+brandon-grotesque, sans (header 2- larger, and paragraph headers)
+Gotham SSm, sans (header 1 and paragraph text)
+
+<link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=East+Sea+Dokdo&family=Josefin+Sans&family=Mukta:wght@400;600&display=swap" rel="stylesheet">
+
+font-family: 'Cabin', sans-serif;
+font-family: 'East Sea Dokdo', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Mukta', sans-serif;
+
+
+main page:
+top nav w/ store logo centered, home(campsite logo), fishing(fish logo), and contact us page(frog icon)
+
+intro page w/ large hero image,
+section below describing the shop and its wares.
+
+did you hear about section(rename) "didya hear about.."
+w/ 3 columns for different fishing/camping articles
+1. take your kids fishing (w/ kid fishin image)
+2. before renting a fishing boat (w/ poles on boat)
+3. Camping in Buck Creek State Park
+
+fishing page:
+
+list of gear they offer at the shop in table
+
+section telling people to check facebook page for updates on fishing conditions(include real link to their facebook)
+
+contact us:
+form for email
+social media area
+google map embed:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.710498215751!2d-83.75257498469469!3d39.94786487942238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883f5130f81985dd%3A0x39561b9624015afe!2sLakeside%20General%20Store!5e0!3m2!1sen!2sus!4v1595372255480!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>

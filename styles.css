@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* Name: Clint Kuhl
+Assignment: Online Profile
+Date: 07.30.2020
+Filename: styles.css */
+.html {
+    font-size: 10px;
+}
+
+.body {
+    background-color: Gainsboro;
+}
+
+.nav-link {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.nav-link:hover {
+    color: SkyBlue;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.0rem;
+}
+
+.carousel-caption > p {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.4rem;
+}
+
+.mb-3 {
+    margin-top: 20px;
+}
+.col-md-4 > img {
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+.container h1,h2 {
+    text-align: center;
+}
+
+.container h2 {margin-bottom: 20px;}
+
+.card-header {
+    text-align: center;
+    font-family: 'Lato',sans-serif;
+    color: white;
+}
+
+.hdraccss {background-color: Firebrick;}
+
+.hdrwebdev {background-color: DodgerBlue;}
+
+.hdrcloud {background-color: Green; }
+
+#tech {margin-top: 20px;}
+
+.techcards {margin-bottom: 20px;}
+
+footer {
+    background-color: Gray;
+    font-family: 'Lato',sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+}
